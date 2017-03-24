@@ -1,0 +1,11 @@
+I"ê(function() {
+  jQuery(function() {
+    return $(".button_submit").live("click", function(e) {
+      e.preventDefault();
+      $("#file_1").trigger("submit");
+      return $("#file_2").trigger("submit");
+    });
+  });
+
+}).call(this);
+:ET

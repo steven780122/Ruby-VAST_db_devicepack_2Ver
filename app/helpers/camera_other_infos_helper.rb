@@ -1,0 +1,2 @@
+module CameraOtherInfosHelper
+end

@@ -1,0 +1,2 @@
+module TestSocCamerasHelper
+end

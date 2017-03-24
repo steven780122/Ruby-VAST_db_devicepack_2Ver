@@ -1,0 +1,2 @@
+module ShowCamInfoAndUpdatesHelper
+end
